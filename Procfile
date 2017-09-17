@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS  -Dserver.port=8081 -jar target/*.jar  
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/ms-turn-1.0-SNAPSHOT.jar

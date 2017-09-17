@@ -21,6 +21,7 @@ com\app\turn\interfaces\entidad\dto\EntidadDTO.class
 com\app\turn\dominio\persona\PersonaRepository.class
 com\app\turn\interfaces\cubiculo\facade\CubiculoFacade.class
 com\app\turn\dominio\turno\Turno.class
+com\app\turn\websocket\SocketHandler$ChatConnection.class
 com\app\turn\interfaces\cubiculo\service\CubiculoService.class
 com\app\turn\interfaces\login\dto\CredencialDTO.class
 com\app\turn\dominio\asignacionCubiculo\AsignacionCubiculoRepository.class
