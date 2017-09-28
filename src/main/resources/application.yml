@@ -16,8 +16,8 @@ info:
   component: turn
 
 # HTTP Server
-server:
-  port: ${PORT:8081}    # HTTP (Tomcat) port
+#server:
+#  port: ${PORT:8081}    # HTTP (Tomcat) port
 
 #SecretKey Token
 authapp:
